@@ -8,6 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  - install dependencies
 ~~~ 
 npm install
+
+
 ~~~
 ng serve
 ~~~
